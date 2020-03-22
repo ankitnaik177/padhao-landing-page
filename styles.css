@@ -1,0 +1,12 @@
+.cover {
+    object-fit: cover;
+    width: 100%;
+    height: 500px;
+}
+
+.team-image {
+    max-width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
